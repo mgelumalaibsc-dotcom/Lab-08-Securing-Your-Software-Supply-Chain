@@ -82,7 +82,7 @@ graph TD
 ## Screenshots
 
 ### 1. Keypair Generation & Image Signing
-*(Student: Insert your terminal screenshot here showing the generated keys and the `cosign sign` success message)*
+<img width="863" height="377" alt="image" src="https://github.com/user-attachments/assets/3a694f3a-46f2-458d-bab2-76ca2d8646fd" />
 
 ### 2. Image Verification Success
 *(Student: Insert your terminal screenshot here showing the `cosign verify` output validating the signature)*
