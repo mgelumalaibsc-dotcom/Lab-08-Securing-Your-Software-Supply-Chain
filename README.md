@@ -85,9 +85,9 @@ graph TD
 <img width="863" height="377" alt="image" src="https://github.com/user-attachments/assets/3a694f3a-46f2-458d-bab2-76ca2d8646fd" />
 
 ### 2. Image Verification Success
-*(Student: Insert your terminal screenshot here showing the `cosign verify` output validating the signature)*
+<img width="1866" height="857" alt="image" src="https://github.com/user-attachments/assets/c371f733-90fb-4303-b6c3-eddee899f67b" />
 
----
+
 
 ## Result
 * Successfully generated cryptographic keypairs to act as a digital seal for software packages.
